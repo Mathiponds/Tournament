@@ -46,7 +46,5 @@ public class Competition {
 				groups.get(nbGroups-j-1).add(tmpComp.get(i*nbGroups+j));	//ON met les derniers dans le group des moins favoris
 			}
 		}
-	}
-	
-	
+	}	
 }
